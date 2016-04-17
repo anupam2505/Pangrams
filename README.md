@@ -22,6 +22,7 @@ Output a line containing pangram if ss is a pangram, otherwise output not pangra
 Input #1
 
 We promptly judged antique ivory buckles for the next prize    
+
 Input #2
 
 We promptly judged antique ivory buckles for the prize    
@@ -31,6 +32,7 @@ We promptly judged antique ivory buckles for the prize
 Output #1
 
 pangram
+
 Output #2
 
 not pangram
